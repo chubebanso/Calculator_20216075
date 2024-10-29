@@ -1,0 +1,24 @@
+<resources>
+    <string name="app_name">My Computer</string>
+    <string name="b00">CE</string>
+    <string name="b01">C</string>
+    <string name="b02">BS</string>
+    <string name="b03">/</string>
+    <string name="b10">7</string>
+    <string name="b11">8</string>
+    <string name="b12">9</string>
+    <string name="b13">x</string>
+    <string name="b20">4</string>
+    <string name="b21">5</string>
+    <string name="b22">6</string>
+    <string name="b23">-</string>
+    <string name="b30">1</string>
+    <string name="b31">2</string>
+    <string name="b32">3</string>
+    <string name="b33">+</string>
+    <string name="b40">+/-</string>
+    <string name="b41">0</string>
+    <string name="b42">.</string>
+    <string name="b43">=</string>
+
+</resources>
